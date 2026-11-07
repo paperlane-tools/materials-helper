@@ -1,4 +1,17 @@
-# 刷资料（materials）
+# materials-helper · 资料助手
+
+**把「资料」类任务自动过一遍：打开页面、让文件加载够时长、上报进度。**
+
+| | |
+|---|---|
+| 版本 | v1.3.1 |
+| 形态 | Tampermonkey 用户脚本（主推）/ Python CLI（可选） |
+| 依赖 | 脚本无依赖；CLI 需要 Python 3 + requests |
+| 入口 | `userscript/csgmooc-materials.user.js` |
+
+---
+
+## 速览（原来的详细说明在下面）
 
 易智教「资料」任务的自动完成。**独立于刷题那套**（刷题在 `..\quiz\`），两套实现二选一：
 

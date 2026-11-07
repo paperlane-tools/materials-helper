@@ -9,6 +9,9 @@
 | 依赖 | 脚本无依赖；CLI 需要 Python 3 + requests |
 | 入口 | `userscript/csgmooc-materials.user.js` |
 
+> **适用平台：易智教云课堂（`csgmooc.com`）**
+> 只处理该平台的「资料」类任务；其他平台的资料页不会出现按钮，接口也不通用。
+
 ---
 
 ## 速览（原来的详细说明在下面）
